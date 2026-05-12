@@ -1,8 +1,4 @@
 # Sistema de Registro de Usuarios - Patrón DAO
-**Desarrollado por:** Angel Damián Roa Sánchez
-
-[cite_start]Este proyecto implementa una arquitectura de software basada en el **Patrón DAO (Data Access Object)**, siguiendo los principios de transparencia y modularidad descritos en el material de referencia sobre organizaciones descentralizadas[cite: 1, 23].
-
 ##Arquitectura del Sistema
 [cite_start]Para evitar el acoplamiento y la complejidad[cite: 25], el sistema se divide en:
 * [cite_start]**Entidad:** Definición de los datos del usuario[cite: 40].
